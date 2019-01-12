@@ -80,9 +80,27 @@ ol {
   font-size: 60px;
 }
 
+.section-title .span3{
+  font-size: 40px;
+}
+
+.section-title .span4{
+  font-size: 20px;
+}
+
+.section-title .span2{
+  color: red;
+  
+}
+
+.section-title .span3{
+  color: brown;
+}
+
 .section-title span {
   color: #979797;
 }
+
 
 /*------------------------
   Common Elements
@@ -301,7 +319,7 @@ ol {
 }
 
 .circle-progress {
-  text-align: center;
+  text-align: left;
   position: relative;
 }
 
